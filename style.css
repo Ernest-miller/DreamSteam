@@ -1,0 +1,218 @@
+* { box-sizing: border-box; }
+
+
+body {
+    position: absolute;
+    background-color: silver;
+    width: 1238px;
+}
+
+
+.block {
+    position: relative;
+    top: -30px;
+    left: 0px;
+    width: 500px;
+}
+
+.block1 {
+    background-color: blue;
+    position: relative;
+    left: 50px;
+    width: 500px;
+}
+.block2 {
+    background-color: orangered;
+    position: relative;
+    top: -78px;
+    left: 500px;
+    width: 500px;
+}
+.block3 {
+    background-color: green;
+    position: relative;
+    top: -126px;
+    left: 900px;
+    width: 375px;
+}
+
+.motto {
+    background-color: white;
+    position: relative;
+    top: -147px;
+    left: 50px;
+    width: 1225px;
+    height: 100px;
+}
+
+.home-menu {
+    position: relative;
+    left: 1145px;
+    top: -210px;
+    width: 200px;
+    list-style-type: none;
+}
+
+.home {
+    position: relative;
+    left: -700px;
+}
+
+.product {
+    position: relative;
+    top: -18px;
+    left: -525px;
+}
+
+.news {
+    position: relative;
+    top: -36px;
+    left: -350px;
+}
+
+.faq {
+    position: relative;
+    top: -54px;
+    left: -175px;
+}/*  */
+
+.contact {
+    position: relative;
+    top: -72px;
+    left: 0px;
+}/*  */
+
+.info-img {
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    left: 50px;
+    top: -277px;
+}
+
+.button {
+    position: relative;
+    top: -675px;
+    left: 1100px;
+    border-radius: 100%;
+}
+
+.rectangle {
+    position: relative;
+    top: -800px;
+    left: 925px;
+    width: 300px;
+    height: 300px;
+}
+
+.text { color: purple; }
+
+.large-info {
+    color: blue;
+    position: relative;
+    top: -20px;
+    left: -30px;
+    width: 250px;
+}
+
+.big-info {
+    color: green;
+    position: relative;
+    top: -36px;
+    left: -30px;
+    width: 200px;
+    height: 300px;
+}
+
+.quick-contact {
+    position: relative;
+    top: -643px;
+    left: 100px;
+    background-color: black;
+    width: 1125px;
+    height: 100px;
+}
+
+.qc {
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.quickcontact-text  { color: red; }
+
+.emblem {
+    position: relative;
+    top: -20px;
+    left: 50px;
+}
+
+.phone1 {
+    position: relative;
+    top: -100px;
+    left: 110px;
+}
+
+.phone2 {
+    position: relative;
+    top: -125px;
+    left: 110px;
+}
+
+.search {
+    color: white;
+    position: relative;
+    top: -170px;
+    left: 800px;
+}
+
+.idk {
+    position: relative;
+    top: -192px;
+    left: 955px;
+    width: 92px;
+}
+/*-- footer --*/
+footer {
+    background-color: white;
+    position: relative;
+    top: -662px;
+    left: 50px;
+}
+
+.footer-text {
+    position: relative;
+    left: 50px;
+    width: 500px;}
+.footer-videos {
+    position: relative;
+    top: -250px;
+    left: 100px;
+    width: 1000px;
+    height: 200px;
+}
+.video1 {
+    background-color: #fff;
+}
+.video2 {
+    background-color: purple;
+    position: relative;
+    left: 196px;
+}
+.video3 {
+    background-color: darkblue;
+    position: relative;
+    left: 392px;
+}
+
+/*----------------------------------------------------------------------------------------------------------------------*/
+.footer-text { color: white; }
+
+.text1 { background-color: blue; position: relative; top: 10px; left: 50px; width: 200px; }
+.text2 { background-color: orangered; position: relative; top: -139px; left: 450px; width: 200px; }
+.text3 { background-color: green; position: relative; top: -289px; left: 850px; width: 200px; }
+/*----------*/
+.button- { color: white; position: relative; top: -240px; left: 100px; width: 1000px; }
+.button1 { background-color: blue; position: relative;  left: 140px; }
+.button2 { background-color: orangered; position: relative; left: 477px; }
+.button3 { background-color: lime; position: relative; left: 814px; }
